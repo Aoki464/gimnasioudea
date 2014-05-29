@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/scala-2.10/classes" path="src/main/scala"/>
+	<classpathentry kind="src" output="target/scala-2.10/classes" path="src/main/java"/>
+	<classpathentry kind="src" output="target/scala-2.10/test-classes" path="src/test/scala"/>
+	<classpathentry kind="src" output="target/scala-2.10/test-classes" path="src/test/java"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/akka-actor_2.10-2.2.0.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/akka-slf4j_2.10-2.2.0.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/akka-testkit_2.10-2.2.0.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/config-1.0.2.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/junit-interface-0.7.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/logback-classic-1.0.13.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/logback-core-1.0.13.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/mimepull-1.9.2.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/parboiled-core-1.1.5.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/parboiled-scala_2.10-1.1.5.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/scalaz-core_2.10-7.0.0.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/scalaz-effect_2.10-7.0.0.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/shapeless_2.10-1.2.4.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/specs2_2.10-1.14.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/specs2-scalaz-concurrent_2.10-7.0.0.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/specs2-scalaz-core_2.10-7.0.0.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/spray-can-1.2-20130712.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/spray-http-1.2-20130712.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/spray-httpx-1.2-20130712.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/spray-io-1.2-20130712.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/spray-json_2.10-1.2.3.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/spray-routing-1.2-20130712.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/spray-testkit-1.2-20130712.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/spray-util-1.2-20130712.jar"/>
+	<classpathentry kind="lib" path="Spray-Akka Library/test-interface-0.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
