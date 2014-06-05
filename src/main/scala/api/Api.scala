@@ -14,7 +14,7 @@ trait Api extends RouteConcatenation {
   this: CoreActors with Core =>
 
   private implicit val _ = system.dispatcher
-
+//Aqui se registran las rutas
   val routes =
     new RegistrationService(registration).route ~
     new MessengerService(messenger).route

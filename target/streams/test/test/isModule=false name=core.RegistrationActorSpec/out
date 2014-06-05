@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0mRegistrationActorSpec[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mRegistration should[0m
+[0m[[0minfo[0m] [0m[32m+[0m reject invalid email[0m
+[0m[[0minfo[0m] [0m[32m+[0m accept valid user to be registered[0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0mTotal for specification RegistrationActorSpec[0m
+[0m[[0minfo[0m] [0m[34mFinished in 93 ms[0m[0m
+[0m[[0minfo[0m] [0m[34m2 examples, 0 failure, 0 error[0m[0m
+[0m[[0minfo[0m] [0m[0m

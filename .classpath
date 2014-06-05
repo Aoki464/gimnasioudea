@@ -5,7 +5,7 @@
 	<classpathentry kind="src" output="target/scala-2.10/test-classes" path="src/test/scala"/>
 	<classpathentry kind="src" output="target/scala-2.10/test-classes" path="src/test/java"/>
 	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_60"/>
 	<classpathentry kind="lib" path="Spray-Akka Library/akka-actor_2.10-2.2.0.jar"/>
 	<classpathentry kind="lib" path="Spray-Akka Library/akka-slf4j_2.10-2.2.0.jar"/>
 	<classpathentry kind="lib" path="Spray-Akka Library/akka-testkit_2.10-2.2.0.jar"/>

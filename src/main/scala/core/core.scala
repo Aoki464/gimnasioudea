@@ -1,5 +1,5 @@
 package core
-
+//Aqui se registran los actores
 import akka.actor.{Props, ActorSystem}
 
 /**
